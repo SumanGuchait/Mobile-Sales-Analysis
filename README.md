@@ -18,7 +18,7 @@ Highlights the current month’s sales performance.
 
 Provides insights into daily sales progression within the month.
 
-3. [Same Period Last Year (SPLY) Comparison](https://github.com/SumanGuchait/Mobile-Sales-Analysis/blob/main/Same%20Period%20Last%20Year.png
+3. [Same Period Last Year (SPLY) Comparison](https://github.com/SumanGuchait/Mobile-Sales-Analysis/blob/main/Same%20Period%20Last%20Year.png)
 
 Compares current performance to the same period in the previous year.
 
