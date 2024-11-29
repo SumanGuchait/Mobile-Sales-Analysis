@@ -6,19 +6,19 @@ This Power BI dashboard provides an in-depth analysis of mobile sales over the l
 
 Features
 
-1. Sales Performance Analysis
+1. Sales Performance Analysis ([Dashboard](https://github.com/SumanGuchait/Mobile-Sales-Analysis/blob/main/Dashboard.png))
 
 Historical Data: Visual representation of sales data spanning the last three years.
 
 Trends and Patterns: Identify sales peaks, seasonal variations, and growth trends.
 
-2. Month-to-Date (MTD) Analysis
+2. Month-to-Date (MTD) Analysis ([MTD](https://github.com/SumanGuchait/Mobile-Sales-Analysis/blob/main/MTD.png))
 
 Highlights the current month’s sales performance.
 
 Provides insights into daily sales progression within the month.
 
-3. Same Period Last Year (SPLY) Comparison
+3. Same Period Last Year (SPLY) Comparison ([Sales Period Last Year](https://github.com/SumanGuchait/Mobile-Sales-Analysis/blob/main/Same%20Period%20Last%20Year.png))
 
 Compares current performance to the same period in the previous year.
 
